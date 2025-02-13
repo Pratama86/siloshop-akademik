@@ -64,7 +64,7 @@
                             <div class="col-6 text-white">
                                 <h3 class="fs-2">kategori</h3>
                                 <p class="fs-4"><?php echo $jumalahKategori; ?> Kategori</p>
-                                <p><a href="kategori.php" class="text-white no-decoration"></a>lihat detail</p>
+                                <a href="kategori.php" class="text-white no-decoration"><p>lihat detail</p></a>
                             </div>
                         </div>
                     </div>
@@ -79,7 +79,7 @@
                             <div class="col-6 text-white">
                                 <h3 class="fs-2">produk</h3>
                                 <p class="fs-4"><?php echo $jumalahproduk; ?> Produk</p>
-                                <p><a href="produk.php" class="text-white no-decoration"></a>lihat detail</p>
+                                <a href="produk.php" class="text-white no-decoration"><p>lihat detail</p></a>
                             </div>
                         </div>
                     </div>

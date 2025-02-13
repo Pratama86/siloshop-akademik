@@ -84,7 +84,7 @@
                 </div>
                 <div>
                     <label for="foto">Foto</label>
-                    <input type="file" name="foto" id="foto">
+                    <input type="file" name="foto" id="foto" class="form-control">
                 </div>
                 <div>
                     <label for="detail">Detail</label>
