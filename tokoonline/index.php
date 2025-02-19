@@ -46,7 +46,7 @@
             <div class="row mt-5">
                 <div class="col-md-4 mb-3">
                     <div class="highlighted-kategori kategori-baju-pria d-flex justify-content-center align-items-center">
-                        <h4 class="text-white"><a class="no-decoration" href="produk.php?kategori=keperluan sekolah">Seragam sekolah</a></h4>
+                        <h4 class="text-white"><a class="no-decoration" href="produk.php?kategori=Baju Seragam">Seragam sekolah</a></h4>
                     </div>
                 </div>
                 <div class="col-md-4 mb-3">
@@ -56,9 +56,9 @@
                 </div>
                 <div class="col-md-4 mb-3">
                     <div class="highlighted-kategori kategori-sepatu d-flex justify-content-center align-items-center">
-                    <h4 class="text-white"><a class="no-decoration" href="produk.php?kategori=peralatan belajar">Sepatu</a></h4>
+                    <h4 class="text-white"><a class="no-decoration" href="produk.php?kategori=Sepatu">Sepatu</a></h4>
                     </div>
-                </div>
+                </div> 
             </div>
         </div>
     </div>
